@@ -15,16 +15,24 @@ def segment_customers(input_data):
     print(prediction)
     pred_1 = 0
     if prediction == 0:
-            pred_1 = 'cluster 0'
+            pred_1 = '--cluster 0-- ' + \
+                        "Promotion acceptance will be rare and "+ \
+                        "Very few complete purchases will be using discounts"
 
     elif prediction == 1:
-            pred_1 = 'cluster 1'
+            pred_1 = '--cluster 1-- ' + \
+                        " Promotion acceptance ratio is 0.5 and " + \
+                        "Completing purchases using discounts will be rare"
 
     elif prediction == 2:
-            pred_1 = 'cluster 2'
+            pred_1 = '--cluster 2-- ' + \
+                        "Promotion acceptance ratio is poor and " + \
+                        "Will be highly interested in completing purchases using discounts"
 
     elif prediction == 3:
-            pred_1 = 'cluster 3'
+            pred_1 = '--cluster 3-- ' + \
+                        "Promotion acceptance is rare and " + \
+                        "Will be highly interested in completing purchases using discounts"
 
     return pred_1
 

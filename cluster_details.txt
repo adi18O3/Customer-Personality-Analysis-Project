@@ -1,0 +1,46 @@
+Cluster 0
+Income range is in between 5000 to 40000 and spending range is in between 0 to 500
+Age range in between 25 to 50
+From any educational level
+Can be married and unmarried as well
+Most of them are parents
+Some have one child
+Customer for at least 300 days
+Promotion acceptance is rare
+Very few complete purchases using discounts
+
+
+Cluster 1
+Income range is in between 65000 to 85000 and spending range is in between 550 to 2000
+Age range in between 30 to 60
+Almost all have completed graduation
+Most of them are married
+They are not parents
+Have no child
+Customer for at least 250 days
+Promotion acceptance ratio is 0.5
+Completing purchases using discounts are rare
+
+
+Cluster 2
+Income range is in between 50000 to 80000 and spending range is in between 250 to 1800
+Age range in between 35 to 60
+Almost all have completed graduation
+Most of them are married
+They are parents
+All have children, most have one child
+Customer for at least 400 days
+Promotion acceptance ratio is poor
+Highly interested in completing purchases using discounts
+
+
+Cluster 3
+Income range is in between 40000 to 60000 and spending range is in between 0 to 500
+Age range in between 40 to 65
+Almost all have completed graduation
+Can be married and unmarried as well
+They are parents
+All have children, most have two children
+Customer for at least 150 days
+Promotion acceptance is rare
+Highly interested in completing purchases using discounts
